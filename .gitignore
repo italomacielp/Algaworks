@@ -1,0 +1,10 @@
+# IDEs
+.idea/
+.classpath
+*.iml
+
+# Compilados
+*.class
+bin/
+out/
+target/
