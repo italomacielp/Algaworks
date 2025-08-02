@@ -3,10 +3,10 @@
 > Cada diretório corresponde a um módulo realizada no curso <ins>Especialista Java</ins> da plataforma <ins>Algaworks</ins>.
 
 ## Sumário
--[♨️ Fundamentos](#-fundamentos)
--[♨️ Estruturas de Controle e Operações](#estrutura-de-controle-e-operação)
--[📚 Material de Apoio](#material-de-apoio)
--[⚙️ Ferramentas/Tecnologias](#️-ferramentastecnologias)
+-[♨️ Fundamentos](#-fundamentos) <br/>
+-[♨️ Estruturas de Controle e Operações](#estrutura-de-controle-e-operação) <br/>
+-[📚 Material de Apoio](#material-de-apoio) <br/>
+-[⚙️ Ferramentas/Tecnologias](#️-ferramentastecnologias) <br/>
 
 ## ♨️ Fundamentos
 ### Tópicos
@@ -31,10 +31,10 @@
 </ul>
 
 ## 📚 Material de Apoio
-> Schildt, Herbert. Java para iniciantes. 6. ed. Porto Alegre: Bookman Editora LTDA, 2015.
-> ORACLE. Code Conventions for the Java Programming Language 1999. Disponível em -[Code Conventions](https://www.oracle.com/java/technologies/javase/codeconventions-contents.html). Acesso em: 02 Ago. 2025.
-> Martin, C. Robert. Código Limpo: Habilidades práticas do Agile Software. Rio de Janeiro: Altabooks, 2011.
+> Schildt, Herbert. Java para iniciantes. 6. ed. Porto Alegre: Bookman Editora LTDA, 2015. <br/>
+> ORACLE. Code Conventions for the Java Programming Language 1999. Disponível em -[Code Conventions](https://www.oracle.com/java/technologies/javase/codeconventions-contents.html). Acesso em: 02 Ago. 2025. <br/>
+> Martin, C. Robert. Código Limpo: Habilidades práticas do Agile Software. Rio de Janeiro: Altabooks, 2011. <br/>
 
 ## ⚙️ Ferramentas/Tecnologias
-> Java 21
-> Intellij IDEA Community Edition 2025
+> Java 21 <br/>
+> Intellij IDEA Community Edition 2025 <br/>

@@ -25,14 +25,14 @@ java nome_arquivo.java
 
 |    Linha     |     Bloco    |
 |--------------|--------------|
-| //comentário |/*comentario*/|
+| // comentário |/* comentario */|
 
 ## Convenções de código (Padrões e boas práticas de código)
 
 
 ## Palavras reservadas
 São palavras chaves da linguagem que possuem uma semântica(significado) e não podem ser utilizadas como nomes de <ins>variáveis, classes e etc.</ins>
-![Palavras Reservadas - Java](../../assets/img/palavras_reservadas.png)
+![Palavras Reservadas - Java](../assets/img/palavras_reservadas.png)
 
 ## Operadores aritméticos
 Servem para realizar operações artiméticas entre os tipos de dados numéricos.
@@ -58,7 +58,7 @@ Servem para realizar operações artiméticas entre os tipos de dados numéricos
 
 > [!TIP]
 > **Pré-fixada**: Incrementa e após isso realiza a attribuição. 
-> <ins>Exemplo:</ins> ++vendas
+> <ins>Exemplo:</ins> ++vendas <br/>
 > **Pós-fixada**: Atribui e depois incrementa o valor.
 > <ins>Exemplo:</ins> vendas++
 
@@ -67,5 +67,5 @@ Tipos de variáveis básicas e cada uma possui uma capacidade e valores que pode
 
 
 > [!IMPORTANT]
-> O tipo <ins>float</ins> e <ins>double</ins> não devem ser utilizados para valores financeiros, pois perderia a precisão requerida, logo usa outro tipo conhecido como <ins>BigDecimal</ins>.
+> O tipo <ins>float</ins> e <ins>double</ins> não devem ser utilizados para valores financeiros, pois perderia a precisão requerida, logo usa outro tipo conhecido como <ins>BigDecimal</ins>. <br/>
 > Casting permite converter um tipo de dado para outro. Normalmente é feito do tipo menor para o maior. Pois na forma invertida pode gerar perca de informações (do maior para o menor)
