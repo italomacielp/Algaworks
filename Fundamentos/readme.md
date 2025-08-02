@@ -31,7 +31,7 @@ java nome_arquivo.java
 
 
 ## Palavras reservadas
-São palavras chaves da linguagem que possuem uma semântica(significado) e não podem ser utilizadas como nomes de <ins>variáveis, classes e etc.</ins>
+São palavras chaves da linguagem que possuem uma semântica(significado) e não podem ser utilizadas como nomes de <ins>variáveis, classes e etc.</ins> <br/>
 ![Palavras Reservadas - Java](../assets/img/palavras_reservadas.png)
 
 ## Operadores aritméticos
